@@ -1,3 +1,4 @@
-A website about new payment methods of Hoo_Bank with modern UI/UX using Reactjs and Tailwind css
+![image](https://github.com/Sen-Yam/Payment/assets/96739035/817fc213-fc82-455e-a372-f81c8a1487ee)A website about new payment methods of Hoo_Bank with modern UI/UX using Reactjs and Tailwind css
+here's the link : https://hoobankpayment.netlify.app/
 ![p1](https://github.com/Sen-Yam/Payment/assets/96739035/9427112b-b2c9-4a89-9941-a4d66acb05e8)
 
